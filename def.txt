@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 you are in a def.txt file
+=======
+welcome to def.txt file
+>>>>>>> d09f665c7108f7db738d84aa9fef677ee615f627
